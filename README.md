@@ -16,4 +16,4 @@
 * FontAwesome no uso de ícones dentro da página;
 
 ### Contato
-* macklaud@usp.br
+* Email: macklaud@usp.br
